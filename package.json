@@ -5,7 +5,7 @@
   "scripts": {
     "start": "nodemon server.js",
     "build": "npm install",
-    "dev": "npx nodemon server.js"
+    "dev": "npx nodemon index.js"
   },
   "keywords": [],
   "author": "",
